@@ -1,0 +1,13 @@
+.button_come_back {
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    background: #ffc493;
+    border: 1px solid greenyellow;
+    cursor: pointer;
+    color: #FFF;
+}
+
+.button_come_back:hover {
+    border: solid rgb(22, 255, 22);
+}

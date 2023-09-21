@@ -1,0 +1,32 @@
+.React-Query {
+    text-align: center;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  background: #79d9ff;
+  color: #A58F8F;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.img-button {
+  width: 200px;
+  height: 230px;
+  margin: 0 50px 0 50px;
+  border: 0;
+  background: white;
+  cursor: pointer;
+}
+
+.img_table {
+  width: 200px;
+  height: 200px;
+}
+
+.img_table:hover{
+  border: solid rgb(255, 255, 138);
+}

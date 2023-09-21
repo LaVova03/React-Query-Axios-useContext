@@ -1,0 +1,35 @@
+table {
+    width: 800px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 20px auto;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: solid rgb(233, 245, 167);
+}
+
+table:hover {
+    border: solid rgb(22, 255, 22);
+}
+
+thead,
+tbody>:nth-child(even) {
+    height: 50px;
+    color: #FFF;
+    background: #ffc493;
+}
+
+tbody>:nth-child(odd) {
+    height: 50px;
+    color: #A58F8F;
+    background: #79d9ff;
+}
+
+th,
+td {
+    border: 1px solid greenyellow;
+}
